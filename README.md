@@ -4,12 +4,13 @@
 <h3>사용한 기술</h3>
 <ul>
   <li>Java</li>
-  <li>Jsp</li>
+  <li>JSP</li>
   <li>HTML</li>
   <li>CSS</li>
-  <li>Eclipse IDE</li>
+  <li>Eclipse IDE 사용</li>
   <li>MySQL</li>
-  <li>JSON</li>
+  <li>JDBC 사용</li>
+  <li>JSON형태로 출력</li>
 </ul>
 
 
