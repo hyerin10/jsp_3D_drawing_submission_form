@@ -3,6 +3,7 @@
 <html>
 <head>
 <title>Delete</title>
+<link rel="stylesheet" type="text/css" href="css/insert.css">
 </head>
 <body>
 	<form method="post" action="delete_process.jsp">
