@@ -13,5 +13,5 @@
 </ul>
 
 
-<h5>핵심 기술</h5>
-<p>DB에 table을 생성(Create), 추가(Insert), 삭제(Delete). 수정(Update) 기능을 구현하였습니다.</p>
+<h3>핵심 기술</h3>
+<li>DB에 table을 생성(Create), 추가(Insert), 삭제(Delete). 수정(Update) 기능을 구현하였습니다.</li>
