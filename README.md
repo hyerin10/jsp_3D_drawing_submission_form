@@ -1,4 +1,4 @@
-<h2>3D 프린팅 도면 제출 폼 프로젝트</h2>
+<h1>3D 프린팅 도면 제출 폼 프로젝트</h1>
 URL: https://github.com/hyerin10/jsp_3D_drawing_submission_form
 
 <h3>핵심 기능</h3>
